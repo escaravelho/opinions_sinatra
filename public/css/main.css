@@ -1,0 +1,21 @@
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 60px;
+  background-color:  #303030;
+}
+
+.footer p {
+  color: #FFFFFF;
+  margin: 20px 0;
+}
+
+.main {
+  margin-top: 20px;
+}
+
+h1 {
+  align-content: center;
+  font-family: 'Lobster', cursive;
+}
